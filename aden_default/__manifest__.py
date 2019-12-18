@@ -46,6 +46,8 @@
     'port': '8069',
     'repos': [
         {'usr': 'jobiols', 'repo': 'cl-aden', 'branch': '11.0'},
+        {'usr': 'xalachi', 'repo': 'fecr', 'branch': '11.0', 'ssh': True},
+
     ],
 
     'docker': [
